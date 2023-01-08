@@ -1,0 +1,31 @@
+/*Fonts Start*/
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,400;1,800&family=Rubik:ital,wght@0,500;1,300&display=swap');
+.karla { 
+    font-family: "Karla";
+}
+
+.karla-bold {
+    font-family: "Karla";
+    font-weight: 800;
+}
+
+.rubik {
+    font-family: 'Rubik';
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-36 {
+    font-size: 36px;
+}
+/*Fonts End*/
