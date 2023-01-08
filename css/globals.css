@@ -1,5 +1,10 @@
 /*Fonts Start*/
-@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,400;1,800&family=Rubik:ital,wght@0,500;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,400;1,800&family=Montserrat&family=Rubik:ital,wght@0,500;1,300&display=swap');
+
+.mont {
+    font-family: 'Montserrat';
+}
+
 .karla { 
     font-family: "Karla";
 }
@@ -29,3 +34,16 @@
     font-size: 36px;
 }
 /*Fonts End*/
+.globalBtn {
+    border: solid black 2px;
+    padding: 5px 10px 5px 10px;
+    margin: 30px 10px 5px 10px;
+    background-color: transparent;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+}

@@ -78,7 +78,7 @@ body {
     color: whitesmoke;
     font-size: 60px;
     text-align: center;
-    text-shadow: rgb(0, 255, 166) 0.85px 0 5px;
+    text-shadow: rgb(171, 255, 226) 0.85px 0 5px;
 }
 
 #homepageHeroVideoSection {
@@ -93,4 +93,45 @@ body {
     min-height: 100%;
     z-index: -100;
     position: absolute;
+}
+/*Homepage Hero Ends*/
+
+/*Homepage Intro Section*/
+#homepageIntroSection {
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    margin-top: 80px;
+}
+
+.homepageIntroBlock {
+    margin-left: 40px;
+    margin-right:40px;
+    height: 350px;
+    width: 300px;
+}
+
+.homepageIntroBlock h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.homepageIntroBlock p {
+    font-size: 14px;
+    text-align: center;
+}
+
+#gaSvg {
+    width: 100px;
+    height: 100px;
+}
+
+#treesSvg {
+    width: 200px;
+    height: 100px;
+}
+
+#houseSvg {
+    width: 100px;
+    height: 100px;
 }
